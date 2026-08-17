@@ -20,7 +20,6 @@ Estudante de **Inteligência Artificial** e desenvolvedor focado em tecnologias 
 
 ### Inteligência Artificial & Aprendizado
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Inteligência_Artificial-00599C?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
