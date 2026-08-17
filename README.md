@@ -15,6 +15,9 @@ Estudante de **Inteligência Artificial** e desenvolvedor focado em tecnologias 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Inteligência Artificial & Aprendizado
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Inteligência_Artificial-00599C?style=for-the-badge&logo=openai&logoColor=white)
