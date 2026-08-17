@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus! 👋
+# Olá, eu sou o Matheus! 
 
 Estudante de **Inteligência Artificial** e desenvolvedor focado em tecnologias **Frontend** e criação de experiências web modernas.
 
