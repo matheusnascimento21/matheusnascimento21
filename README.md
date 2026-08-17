@@ -1,6 +1,9 @@
-# Olá, eu sou o Matheus! 
+## Matheus Nascimento
+## Sobre mim
 
-Estudante de **Inteligência Artificial** e desenvolvedor focado em tecnologias **Frontend** e criação de experiências web modernas.
+Sou estudante do curso de Inteligência Artificial e desenvolvedor focado na construção de aplicações web modernas e funcionais. Possuo sólida atuação no desenvolvimento frontend com JavaScript, React, Next.js, Vue.js e Vite, aliada à estruturação de dados com MySQL.
+
+Meu foco principal consiste em aplicar os conceitos de Inteligência Artificial ao ecossistema de desenvolvimento de software, entregando interfaces escaláveis, eficientes e alinhadas às melhores práticas de experiência do usuário. Busco constantemente o aprimoramento técnico e a participação em projetos desafiadores no mercado de tecnologia.
 
 ---
 
@@ -36,6 +39,6 @@ Atualmente cursando Inteligência Artificial, estou em busca de oportunidades pa
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnascimento.mat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusnascimento21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-nascimento-577278308)
